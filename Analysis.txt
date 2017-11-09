@@ -1,0 +1,3 @@
+0. Identify two pointer: 'slow', 'fast', to find the centre of the linked list.
+1. Then, 'slow' will be the centre pointer of the linked list. So, reverse the rest of the linked list.
+2. Compare with the 'two' linked list.
